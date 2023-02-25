@@ -1,0 +1,1 @@
+print(f'Reversed String: {input("Enter a String: ")[::-1]}')
